@@ -1,6 +1,4 @@
-### Hi there 👋
-
-###Olá!! Sou o Angelo Máximo!! 👋
+Olá!! Sou o Angelo Máximo!! 👋
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-maximo-s-alves-47112164/)
 
