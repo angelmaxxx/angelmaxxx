@@ -12,6 +12,9 @@ Olá!! Sou o Angelo Máximo!! 👋
 ![Angelmaxxx GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmaxxx&show_icons=true&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmaxxx&hide_progress=true)
+
+
 ### Tecnologias que uso no meu dia a dia 
 
 
